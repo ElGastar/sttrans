@@ -1,0 +1,133 @@
+/*=============================================
+             Theme text Color
+=============================================*/
+.top-header .top-contect ul li i,
+.top-header .top-socail ul li a:hover,
+.mid-header .open-time  ul li i,
+.navigation .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,
+.navigation .nav > li > a:hover,
+.our-blog .inner-blog .text-box a,
+.counter-grid h4,
+.inner-clints .clints-sponser h3,
+.recent-post .text-box span,
+.copayright .copyrigth-left ul li a:hover,
+.copayright .copyrigth-left ul li.active a,
+.copyrigth-right p span,
+.feature-inner .text-box a:hover,
+.our-blog .inner-blog .text-box h3 a:hover,
+.mid-header .open-time ul li .text-box a:hover,
+.top-header .top-contect ul li a:hover,
+.home2-counter .counter-grid i,
+.home3-feature-item .feature-inner .text-box .btn,
+.contact-form span,
+.contact-location a:hover{
+    color: #08c1f3;
+}
+/*=============================================
+           Theme Background Color
+=============================================*/
+.navigation,
+.feature-inner .text-box .btn,
+.blue-grid .image-holder,
+.blue-grid:hover .image-holder:after,
+.testimonail-inner .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span,
+.counter-grid i,
+.inner-footer input[type="submit"],
+.quote-form .form-group .btn:hover,
+.start-now .btn:hover,
+.home2-feature-item .feature-inner .text-box .btn:hover,
+.home3-feature-item .feature-inner .text-box .btn:hover,
+.home3-counter .counter-grid,
+.home3-request-quote .request-quote-left,
+.home3-request-quote .request-quote-left:before,
+.hom3-tastimonial .testimonail-inner .text-box h3,
+.amazing-feature .feature-inner .image-holder,
+.cargo-right-innar .btn,
+.sub-menu li a:hover,
+.sub-menu li.active{
+    background-color: #08c1f3;
+}
+/*=============================================
+            Theme border Color
+=============================================*/
+.mid-header .open-time  ul li strong,
+.blue-grid:hover,
+.home2-feature-item .feature-inner .text-box .btn:hover,
+.home2-counter .counter-grid,
+.hom3-tastimonial .testimonail-inner .image-holder,
+.hom3-tastimonial  .testimonail-inner .text-box,
+.amazing-feature .feature-inner:hover{
+    border-color: #08c1f3;
+}
+
+
+
+/*=============================================
+             Theme second text Color
+=============================================*/
+.mid-header .open-time  ul li .text-box p,
+.inner-banner .banner-text h1 span,
+.home3-request-quote .yellow-sponser h3,
+.home4-inner-banner .banner-text h2 span{
+    color: #fdb714;
+}
+/*=============================================
+        Theme second Background Color
+=============================================*/
+.btn,
+.yellow-grid .image-holder,
+.yellow-grid:hover .image-holder:after,
+#owl-demo.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span,
+.home3-counter .yellow-counter-grid,
+.home3-request-quote .quote-form .form-group .btn,
+.amazing-feature .yellow-fetur .image-holder{
+    background-color: #fdb714;
+}
+/*=============================================
+        Theme second border Color
+=============================================*/
+.yellow-grid:hover,
+.amazing-feature .yellow-fetur:hover{
+    border-color: #fdb714;
+}
+
+
+
+/*=============================================
+            Theme thrd text Color
+=============================================*/
+.inner-banner .banner-text .btn,
+.hadding-inner strong,
+.our-blog .inner-blog .text-box span strong,
+.green-counter-grid h4,
+.our-blog .inner-blog .text-box a:hover,
+.home2-counter .green-counter-grid i,
+.cargo-right-innar h3 span{
+    color: #98ce44;
+}
+/*=============================================
+        Theme thrd Background Color
+=============================================*/
+.inner-banner .banner-text .btn:hover,
+.inner-banner .owl-theme .owl-controls .owl-buttons div:hover,
+.quote-form .form-group .btn,
+.green-grid .image-holder,
+.green-grid:hover .image-holder:after,
+.green-counter-grid i,
+.start-now .btn,
+.inner-footer input[type="submit"]:hover,
+.btn:hover,
+.feature-inner .text-box .btn:hover,
+.home3-counter .green-counter-grid,
+.amazing-feature .green-feture .image-holder,
+.contact-form .form-group .btn{
+    background-color: #98ce44;
+}
+/*=============================================
+        Theme thrd border Color
+=============================================*/
+.green-grid:hover,
+.home2-counter .green-counter-grid,
+.amazing-feature .green-feture:hover{
+    border-color: #98ce44;
+}
